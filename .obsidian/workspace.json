@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Branch Naming Conventions.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Branch Naming Conventions"
+              "title": "README"
             }
           }
         ]
@@ -183,7 +183,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "8127c2302690a2a0",
+  "active": "bc974fc8ab24c601",
   "lastOpenFiles": [
     "Development/Branch Naming Conventions.md",
     "Maintenance",
