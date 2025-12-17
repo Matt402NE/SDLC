@@ -1,6 +1,6 @@
-# Best Practices for Branch Naming Conventions
+# Best Practices for Naming Branches
 
-A crucial aspect of using Git effectively is the proper usage and naming of branches. This  document outlines the naming convention that should be used when creating a new feature branches.
+A crucial aspect of using Git effectively is the proper usage and naming of branches. This  document outlines the naming convention that should be used when [creating a new feature branches](Branch%20Creation.md).
 ### Benefits
 
 - **Clear Communication**: The branch name alone should provide a clear understanding of the code change's purpose.
@@ -57,12 +57,13 @@ Branch names (or titles) should be made up of 3 separate sections that are separ
 
 1. **No Spaces**: Use hyphens (-) to separate words instead of spaces.  For example, `feature/jd/issue-34-add-login` or `bugfix/js/t-43-business-rule-missing`.
 2. **Keep It Clear and Concise**: The branch description should be descriptive yet concise, clearly indicating the purpose of the work.  Avoid generic terms like `update`, `changes`, or `stuff`.
-3. **Include Ticket Number**: **Include Ticket Number**: Your description should start with the ticket reference from your project management system. Use your ticketing system's format (e.g., `t-123`, `issue-432`, `jira-456`).  For example, if you are working on a ticket number “T-123” and it is related to adding a password to the log-in page, the branch name could be `feature/jd/t-123-add-password`. 
+3. **Include Ticket Number**: Your description should start with the ticket reference from your project management system. Use your ticketing system's format (e.g., `t-123`, `issue-432`, `jira-456`).  For example, if you are working on a ticket number “T-123” and it is related to adding a password to the log-in page, the branch name could be `feature/jd/t-123-add-password`. 
 	* **Include No Reference**:  When there is no ticket to reference, use `no-ref` instead of the ticket number to indicate the changes were not caused by a ticket. For example, `hotfix/jd/no-ref-registration-form-broken` indicates that a ticket doesn't exist yet for the production issue. 
 
 ## Examples
 
 ### Good Branch Names ✓
+
 - `feature/jd/t-456-user-authentication`
 - `bugfix/sarah-jones/issue-789-fix-login-redirect`
 - `hotfix/mk/no-ref-critical-payment-bug`
@@ -71,6 +72,7 @@ Branch names (or titles) should be made up of 3 separate sections that are separ
 - `test/jd/no-ref-redis-caching-experiment`
 
 ### Bad Branch Names ✗
+
 - `feature/new-stuff` ❌ (no author, vague description)
 - `Feature/JD/add_login` ❌ (uppercase, underscores)
 - `jd-feature-login` ❌ (wrong format)

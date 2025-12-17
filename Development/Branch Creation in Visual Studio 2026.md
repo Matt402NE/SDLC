@@ -1,4 +1,4 @@
-# Creating a Branch in Visual Studio 2026
+# Creating a Branch in Visual Studio 2026 with Git
 
 Visual Studio 2026 is the latest version of Visual Studio. The Git integration features for branch creation follow the same robust process as its immediate predecessors (Visual Studio 2022).
 

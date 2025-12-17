@@ -13,6 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Security/Static Application Security Testing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Static Application Security Testing"
+            }
+          },
+          {
+            "id": "24bf5c568217f2b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security/Secret Scanner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Secret Scanner"
+            }
+          },
+          {
+            "id": "197b632c63d3eab4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/Branch Pull Request.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Branch Pull Request"
+            }
+          },
+          {
+            "id": "f72e3e36c37723a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/Branch Pull Request in Visual Studio 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Branch Pull Request in Visual Studio 2026"
+            }
+          },
+          {
+            "id": "c5646ed9b976f3ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Development/Branch Creation.md",
                 "mode": "source",
                 "source": false
@@ -22,21 +78,21 @@
             }
           },
           {
-            "id": "ff73a9ee73e33cb5",
+            "id": "db1fa38d4ace6a83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Branch Naming Conventions.md",
+                "file": "Security/Secret Scanner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Branch Naming Conventions"
+              "title": "Secret Scanner"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -198,20 +254,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "ff73a9ee73e33cb5",
+  "active": "c5646ed9b976f3ad",
   "lastOpenFiles": [
-    "Development/Branch Creation in Visual Studio 2026.md",
-    "Development/Branch Creation.md",
+    "Development/Branch Commit Message Conventions.md",
+    "Development/Branch Commit in Visual Studio 2026.md",
+    "Development/Branch Commit.md",
+    "Continuous Integration.md",
+    "Development/Branch Pull Request in Visual Studio 2026.md",
+    "Development/Assets/vs-2026-remote-branch-merge.png",
+    "Security/Assets/screenshot-github-secret-scanning.png",
+    "Security/Secret Scanner.md",
+    "Development/Assets/vs-2026-local-branch-delete.png",
     "Development/Branch Naming Conventions.md",
+    "Development/Branch Pull Request.md",
+    "Development/Branch Creation in Visual Studio 2026.md",
+    "Security/Dynamic Application Security Testing.md",
+    "Security/Software Composition Analysis.md",
+    "Security/Static Application Security Testing.md",
+    "Security/Static Code Analysis.md",
+    "Testing/Types Of Tests.md",
+    "Development/Branch Creation.md",
+    "MAIN Branch.md",
+    "Security/Software Bill Of Materials.md",
+    "Security/Assets",
+    "Security/New folder",
+    "Security",
+    "Testing/Assets/diagram-testing-pyramid.pptx",
+    "Testing/pptAF49.tmp",
+    "Testing/ppt7C32.tmp",
+    "Testing/ppt5D4F.tmp",
+    "Testing/Assets/diagram-testing-pyramid.png",
+    "README.md",
     "Development/Assets/vs-2026-new-branch-dialog.png",
     "Development/Assets",
-    "README.md",
     "Development/Branch Creation",
     "Development/Branch.md",
-    "Maintenance",
-    "Testing",
-    "Development",
-    "Design",
-    "Analysis"
+    "Maintenance"
   ]
 }
